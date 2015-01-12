@@ -21,5 +21,5 @@ This library is adapted from [Ahmet Alp Balkan's](https://github.com/ahmetalpbal
 ```csharp
 Deasciifier d = new Deasciifier();
 d.SetAsciiString("Hadi bir masal uyduralim, icinde mutlu, doygun, telassiz durdugumuz.");
-System.Console.WriteLine(d.ConvertToTurkish());
+Console.WriteLine(d.ConvertToTurkish());
 ```
