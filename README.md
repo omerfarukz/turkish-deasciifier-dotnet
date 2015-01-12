@@ -13,7 +13,7 @@ will be converted to a sentence containing proper Turkish accented characters:
 
 ### Credits
 
-This library is adapted from [Ahmet Alp Balan's](https://github.com/ahmetalpbalkan/turkish-deasciifier-java) java library and it is adapted from Emre Sevinç's [Turkish Deasciifier](http://ileriseviye.org/blog/?p=327) for Python which was influenced by Deniz Yüret's [Emacs Turkish Mode](http://denizyuret.blogspot.com/2006/11/emacs-turkish-mode.html) implementation which was inspired by Gökhan Tür's [Turkish Text Deasciifier](http://www.hlst.sabanciuniv.edu/TL/deascii.html).
+This library is adapted from [Ahmet Alp Balkan's](https://github.com/ahmetalpbalkan/turkish-deasciifier-java) java library and it is adapted from Emre Sevinç's [Turkish Deasciifier](http://ileriseviye.org/blog/?p=327) for Python which was influenced by Deniz Yüret's [Emacs Turkish Mode](http://denizyuret.blogspot.com/2006/11/emacs-turkish-mode.html) implementation which was inspired by Gökhan Tür's [Turkish Text Deasciifier](http://www.hlst.sabanciuniv.edu/TL/deascii.html).
 
 
 This project is not actively maintained.
