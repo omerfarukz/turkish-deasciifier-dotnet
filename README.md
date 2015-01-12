@@ -5,19 +5,23 @@ Turkish Deasciifier is a .net library which converts Turkish text written with A
 
 For instance a Turkish sentence containing only ASCII characters like:
 
-Hadi bir masal uyduralim, icinde mutlu, doygun, telassiz durdugumuz.
+>  Hadi bir masal uyduralim, icinde mutlu, doygun, telassiz durdugumuz.
+
 will be converted to a sentence containing proper Turkish accented characters:
 
-Hadi bir masal uyduralım, içinde mutlu, doygun, telaşsız durduğumuz.
-Credits
+> Hadi bir masal uyduralım, içinde mutlu, doygun, telaşsız durduğumuz.
 
-This library is adapted from Ahmet Alp Balan's java library and it is adapted from Emre Sevinç's Turkish Deasciifier for Python which was influenced by Deniz Yüret's Emacs Turkish Mode implementation which was inspired by Gökhan Tür's Turkish Text Deasciifier.
+### Credits
+
+This library is adapted from [Ahmet Alp Balan's](https://github.com/ahmetalpbalkan/turkish-deasciifier-java) java library and it is adapted from Emre Sevinç's [Turkish Deasciifier](http://ileriseviye.org/blog/?p=327) for Python which was influenced by Deniz Yüret's [Emacs Turkish Mode](http://denizyuret.blogspot.com/2006/11/emacs-turkish-mode.html) implementation which was inspired by Gökhan Tür's [Turkish Text Deasciifier](http://www.hlst.sabanciuniv.edu/TL/deascii.html).
+
 
 This project is not actively maintained.
 
-Example usage
+### Example usage
 
+```csharp
 Deasciifier d = new Deasciifier();
-d.setAsciiString("Hadi bir masal uyduralim, icinde mutlu, doygun, telassiz durdugumuz.");
-System.out.println(d.convertToTurkish());
-That simple.
+d.SetAsciiString("Hadi bir masal uyduralim, icinde mutlu, doygun, telassiz durdugumuz.");
+System.out.println(d.ConvertToTurkish());
+```
