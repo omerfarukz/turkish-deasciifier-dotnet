@@ -48,9 +48,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="patterns.xml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <ProjectReference Include="..\OMR.Deasciifier\OMR.Deasciifier.csproj">
+      <Project>{0fb9df90-2912-46ea-b914-a9b355efb9b1}</Project>
+      <Name>OMR.Deasciifier</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
