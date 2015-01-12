@@ -1,0 +1,6 @@
+c:\users\ozorlu\documents\visual studio 2013\Projects\deasciifier\deasciifier\bin\Debug\deasciifier.exe.config
+c:\users\ozorlu\documents\visual studio 2013\Projects\deasciifier\deasciifier\bin\Debug\deasciifier.exe
+c:\users\ozorlu\documents\visual studio 2013\Projects\deasciifier\deasciifier\bin\Debug\deasciifier.pdb
+c:\users\ozorlu\documents\visual studio 2013\Projects\deasciifier\deasciifier\obj\Debug\deasciifier.exe
+c:\users\ozorlu\documents\visual studio 2013\Projects\deasciifier\deasciifier\obj\Debug\deasciifier.pdb
+c:\users\ozorlu\documents\visual studio 2013\Projects\deasciifier\deasciifier\bin\Debug\patterns.xml
